@@ -1,0 +1,155 @@
+
+
+html {
+	background-color: #B0B1B1;
+}
+
+.wrapper {
+	width: 60%;
+	display: inline-block; 
+	position: relative;
+	margin-bottom: 0px;
+	margin-top: 1% ;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #D4D5D5;
+	border-radius: 20px;
+
+}
+
+		.header{
+			width: 96%; 
+			height:65px;
+			margin-bottom: 10px;
+			margin-top: 17px ;
+			margin-left: 2%;
+			margin-right: 50%;
+			position: relative; 
+			background-color: #B0B1B1;
+			border-radius: 20px;
+
+		}
+
+		.formulaire{
+			width: 86%; 
+			height: 450px;
+			margin-left: 7%;
+			margin-right: 0px;
+			margin-bottom: 65px;
+			margin-top: 20px ;
+			position: relative; 	
+			float:center;         
+			background-color: #B0B1B1;
+			border-radius: 20px;
+		}
+		
+		.formulaire2{
+			width: 86%; 
+			height: 1270px;
+			margin-left: 7%;
+			margin-right: 0px;
+			margin-bottom: 65px;
+			margin-top: 65px ;
+			position: relative; 	
+			float:center;         
+			background-color: #B0B1B1;
+			border-radius: 20px;
+		}
+
+				.question{
+					width: 90%; 
+					height: 100px;
+					margin-left: 5%;
+					margin-right: 5%;
+					margin-bottom: 30px;
+					margin-top: 40px ;
+					position: relative; 	
+					float:left;         
+					background-color: #D4D5D5;
+					border-radius: 20px;
+				}
+
+
+				.reponse{
+                                    margin-left: 50px;
+                                    
+				}
+
+/*						.haut{
+							width: 100%; 
+							height: 120px;
+							margin-left: 0%;
+							margin-right: 0px;
+							margin-bottom: 0px;
+							margin-top: 0px ;
+							position: relative; 
+							display: inline-block; 	
+						    background-color: #D4D5D5;
+							border-radius: 20px;
+						}
+
+								.Hgauche{
+									width: 48%; 
+									height: 90px;
+									margin-left: 2%;
+									margin-right: 2px;
+									margin-bottom: 2px;
+									margin-top: 35px ;
+									position: absolute; 
+									display: inline-block; 	
+									float:left;  
+									background-color: #D4D5D5;       
+									border-radius: 20px;
+								}
+
+								.Hdroite{
+									width: 50%; 
+									height: 90px;
+									margin-left: 2%;
+									margin-right: 5px;
+									margin-bottom: 2px;
+									margin-top: 35px ;
+									display: inline-block; 	
+									float:right;     
+									background-color: #D4D5D5;    
+									border-radius: 20px;
+								}
+
+						.bas{
+							width: 100%; 
+							height: 120px;
+							margin-left: 0%;
+							margin-right: 0px;
+							margin-bottom: 0px;
+							margin-top: 10px ;
+	 						position: relative; 
+	 						background-color: #D4D5D5;
+							border-radius: 20px;
+						}
+
+								.Bgauche{
+										width: 48%; 
+										height: 90px;
+										margin-left: 2%;
+										margin-right: 2px;
+										margin-bottom: 2px;
+										margin-top: 15px ;
+										position: absolute; 
+										display: inline-block; 	
+										float:left;     
+										background-color: #D4D5D5;    
+										background-color:violet ;
+									}
+
+								.Bdroite{
+									width: 50%; 
+									height: 90px;
+									margin-left: 2%;
+									margin-right: 5px;
+									margin-bottom: 2px;
+									margin-top: 15px ;
+									display: inline-block; 	
+									float:right;       
+									background-color: #D4D5D5;  
+									background-color:navy ;
+								}*/
